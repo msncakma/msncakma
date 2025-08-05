@@ -7,4 +7,4 @@ Currently learning cybersecurity and expanding my skills in open-source developm
 - 🌱 I’m currently improving my Git, Docker, and networking knowledge  
 - ⚡ Fun fact: I once managed a full FiveM server on a self-hosted Linux system 😄
 
-📫 How to reach me: isikmuhammett.06@gmail.com
+📫 How to reach me: Secret :p
