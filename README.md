@@ -1,5 +1,8 @@
-# 💫 About Me:
-Heyyy!! I am msncakma ')<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=CD67F7&center=true&vCenter=true&random=true&width=600&lines=I+write+code+that+works+(sometimes)+hehe+%3AD;Debugging+is+my+cardio;Searching+for+the+perfect+semicolon;Will+code+for+coffee+%E2%98%95)](https://git.io/typing-svg)
+# Hey 👋 What's up?
+
+<H3> 💫 About Me:</H3>
+
 🔭 I’m currently working on WardenIPS<br>🌱 I’m currently learning Docker, Pyhton, English, Bash....<br>💬 Ask me about what you want :p
 
 
